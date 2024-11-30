@@ -6,8 +6,8 @@
    kotyara12@yandex.ru | https://kotyara12.ru | tg: @kotyara1971
 */
 
-#ifndef __RE_CERTS_H__
-#define __RE_CERTS_H__
+#ifndef __ME_CERTS_H__
+#define __ME_CERTS_H__
 
 #include <stddef.h>
 
@@ -22,4 +22,4 @@ void freeTlsGlobalCAStore();
 }
 #endif
 
-#endif // __RE_CERTS_H__
+#endif // __ME_CERTS_H__
